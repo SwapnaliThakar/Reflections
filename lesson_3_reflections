@@ -1,3 +1,6 @@
 Create reflections file for lesson 3 about using git and github on Udacity
 When would you want to use a remote repository rather than keeping all your work local?
 When I want to collaborate with others so that we can all contribute to the project.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+If we pull or push automatically then it will have versions of the code that is not ready for the public yet.
