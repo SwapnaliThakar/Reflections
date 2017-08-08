@@ -7,3 +7,9 @@ To start tracking changes.
 How is the staging area different from working directory and the repository? What value do you think it offers
 
 The staging area allows you to select files to be added to a commit. This allows us to only add those files to a commit that were changed.
+
+What is the result of merging the two branches together?
+All the commits from the branch are merged into the master.
+
+Why do we represent it in the diagram the way we do?
+So that it is easier for us to visualize what's happening in the background.
